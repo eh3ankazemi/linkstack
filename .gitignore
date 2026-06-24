@@ -56,10 +56,10 @@ Desktop.ini
 $RECYCLE.BIN/
 
 # npm package lock
-package-lock.json
-yarn.lock
-pnpm-lock.yaml
-bun.lock
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+# bun.lock
 
 # Coverage directory
 coverage/

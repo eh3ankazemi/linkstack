@@ -1,6 +1,6 @@
 {
   "name": "links",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -9,12 +9,12 @@
     "preview": "vite preview --port 8080"
   },
   "devDependencies": {
-    "terser": "^5.46.2",
+    "terser": "^5.48.0",
     "typescript": "~6.0.3",
-    "vite": "^8.0.10"
+    "vite": "^8.1.0"
   },
   "dependencies": {
-    "@tailwindcss/vite": "^4.2.4",
-    "tailwindcss": "^4.2.4"
+    "@tailwindcss/vite": "^4.3.1",
+    "tailwindcss": "^4.3.1"
   }
 }
