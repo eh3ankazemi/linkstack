@@ -43,8 +43,8 @@ export const links: LinkItem[] = [
     icon: "🐙",
     name: "GitHub",
     description: "Open source projects & contributions",
-    colorClass: "bg-white border-gray-100 text-blue-500",
-    hoverClass: "hover:border-blue-500 group-hover:text-blue-700",
+    colorClass: "bg-white border-gray-100 text-purple-600",
+    hoverClass: "hover:border-purple-600 group-hover:text-purple-800",
     delay: `${(time += 0.15)}s`,
   },
   {
