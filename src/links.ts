@@ -84,7 +84,7 @@ export const links: LinkItem[] = [
     delay: `${(time += 0.15)}s`,
   },
   {
-    href: "https://orcid.org/0009-0001-5935-7878",
+    href: "tel:+989212154476",
     icon: "📞",
     name: "Call with Me",
     description: "Get in touch via phone",
