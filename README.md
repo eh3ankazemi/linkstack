@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/github/license/eh3ankazemi/linkstack?style=for-the-badge" alt="License"/>
   </a>
   <a href="https://github.com/eh3ankazemi">
-    <img src="https://img.shields.io/badge/Author-Muhammad%20Fiaz-blue?style=for-the-badge" alt="Author"/>
+    <img src="https://img.shields.io/badge/Ehsan-Kazemi%20Fiaz-blue?style=for-the-badge" alt="Author"/>
   </a>
   <img src="https://img.shields.io/github/repo-size/eh3ankazemi/linkstack?style=for-the-badge" alt="Repo Size"/>
   <img src="https://img.shields.io/github/languages/top/eh3ankazemi/linkstack?style=for-the-badge" alt="Top Language"/>
