@@ -1,9 +1,6 @@
-
-
-
 import { links } from './links';
 
-const DEFAULT_GTM_ID = 'GTM-5BQ5RPW2';
+const DEFAULT_GTM_ID = 'GTM-PX428PJK';
 const DEFAULT_GA_ID = 'G-SDJ0K1Y70X';
 
 declare global {
