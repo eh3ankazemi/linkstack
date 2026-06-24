@@ -30,6 +30,15 @@ export const links: LinkItem[] = [
   //   delay: `${time+1.5}s`,
   // },
   {
+    href: "https://ehsan-kazemi.ir",
+    icon: "🌐",
+    name: "Portfolio",
+    description: "Visit my main website",
+    colorClass: "bg-white border-gray-100 text-blue-500",
+    hoverClass: "hover:border-blue-500 group-hover:text-blue-700",
+    delay: `${(time += 0.15)}s`,
+  },
+  {
     href: "https://github.com/eh3ankazemi/",
     icon: "🐙",
     name: "GitHub",
@@ -56,24 +65,6 @@ export const links: LinkItem[] = [
   //   hoverClass: "hover:border-gray-400 group-hover:text-black",
   //   delay: `${time+=.15}s`
   // },
-  {
-    href: "https://ehsan-kazemi.ir",
-    icon: "🌐",
-    name: "Portfolio",
-    description: "Visit my main website",
-    colorClass: "bg-white border-gray-100 text-blue-500",
-    hoverClass: "hover:border-blue-500 group-hover:text-blue-700",
-    delay: `${time+=.15}s`
-  },
-  {
-    href: "https://x.com/eh3ankazemi",
-    icon: "🐦",
-    name: "Twitter (X)",
-    description: "Follow me for updates",
-    colorClass: "bg-white border-gray-100 text-blue-400",
-    hoverClass: "hover:border-blue-400 group-hover:text-blue-700",
-    delay: `${(time += 0.15)}s`,
-  },
   // {
   //   href: "https://dribbble.com/",
   //   icon: "🏀",
@@ -99,7 +90,7 @@ export const links: LinkItem[] = [
     description: "Get in touch via phone",
     colorClass: "bg-white border-gray-100 text-green-600",
     hoverClass: "hover:border-green-600 group-hover:text-green-800",
-    delay: `${time+=.15}s`
+    delay: `${(time += 0.15)}s`,
   },
   //   {
   //     href: "https://dly.to/",
@@ -120,21 +111,30 @@ export const links: LinkItem[] = [
   //   delay:`${time+=.15}s`
   // },
   {
-    href: "https://www.youtube.com/@muhammad_fiaz",
-    icon: "📺",
-    name: "YouTube",
-    description: "Subscribe for videos and updates",
-    colorClass: "bg-white border-gray-100 text-red-500",
-    hoverClass: "hover:border-red-500 group-hover:text-red-600",
-    delay: `${(time += 0.15)}s`,
-  },
-  {
     href: "https://www.instagram.com/eh3ankazemi/",
     icon: "📸",
     name: "Instagram",
     description: "Follow my creator updates",
     colorClass: "bg-white border-gray-100 text-pink-500",
     hoverClass: "hover:border-pink-500 group-hover:text-pink-600",
+    delay: `${(time += 0.15)}s`,
+  },
+  {
+    href: "https://x.com/eh3ankazemi",
+    icon: "🐦",
+    name: "Twitter (X)",
+    description: "Follow me for updates",
+    colorClass: "bg-white border-gray-100 text-blue-400",
+    hoverClass: "hover:border-blue-400 group-hover:text-blue-700",
+    delay: `${(time += 0.15)}s`,
+  },
+  {
+    href: "https://www.youtube.com/@eh3ankazemi",
+    icon: "📺",
+    name: "YouTube",
+    description: "Subscribe for videos and updates, it's not active yet",
+    colorClass: "bg-white border-gray-100 text-red-500",
+    hoverClass: "hover:border-red-500 group-hover:text-red-600",
     delay: `${(time += 0.15)}s`,
   },
   {
