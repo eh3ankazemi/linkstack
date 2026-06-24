@@ -1,32 +1,32 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/user-attachments/assets/63712592-53fc-4fba-97d3-2f3677d69c65" alt="preview" width="700"/>
-</p>
+</p> -->
 <h1 align="center">LinkStack</h1>
 
 <p align="center">
   <!-- GitHub -->
-  <a href="https://github.com/muhammad-fiaz/linkstack/stargazers">
-    <img src="https://img.shields.io/github/stars/muhammad-fiaz/linkstack?style=for-the-badge&logo=github" alt="GitHub Stars"/>
+  <a href="https://github.com/eh3ankazemi/linkstack/stargazers">
+    <img src="https://img.shields.io/github/stars/eh3ankazemi/linkstack?style=for-the-badge&logo=github" alt="GitHub Stars"/>
   </a>
-  <a href="https://github.com/muhammad-fiaz/linkstack/forks">
-    <img src="https://img.shields.io/github/forks/muhammad-fiaz/linkstack?style=for-the-badge&logo=github" alt="GitHub Forks"/>
+  <a href="https://github.com/eh3ankazemi/linkstack/forks">
+    <img src="https://img.shields.io/github/forks/eh3ankazemi/linkstack?style=for-the-badge&logo=github" alt="GitHub Forks"/>
   </a>
-  <a href="https://github.com/muhammad-fiaz/linkstack/issues">
-    <img src="https://img.shields.io/github/issues/muhammad-fiaz/linkstack?style=for-the-badge&logo=github" alt="Issues"/>
+  <a href="https://github.com/eh3ankazemi/linkstack/issues">
+    <img src="https://img.shields.io/github/issues/eh3ankazemi/linkstack?style=for-the-badge&logo=github" alt="Issues"/>
   </a>
-  <a href="https://github.com/muhammad-fiaz/linkstack/pulls">
-    <img src="https://img.shields.io/github/issues-pr/muhammad-fiaz/linkstack?style=for-the-badge&logo=github" alt="Pull Requests"/>
+  <a href="https://github.com/eh3ankazemi/linkstack/pulls">
+    <img src="https://img.shields.io/github/issues-pr/eh3ankazemi/linkstack?style=for-the-badge&logo=github" alt="Pull Requests"/>
   </a>
-  <a href="https://github.com/muhammad-fiaz/linkstack/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/muhammad-fiaz/linkstack?style=for-the-badge" alt="License"/>
+  <a href="https://github.com/eh3ankazemi/linkstack/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/eh3ankazemi/linkstack?style=for-the-badge" alt="License"/>
   </a>
-  <a href="https://github.com/muhammad-fiaz">
+  <a href="https://github.com/eh3ankazemi">
     <img src="https://img.shields.io/badge/Author-Muhammad%20Fiaz-blue?style=for-the-badge" alt="Author"/>
   </a>
-  <img src="https://img.shields.io/github/repo-size/muhammad-fiaz/linkstack?style=for-the-badge" alt="Repo Size"/>
-  <img src="https://img.shields.io/github/languages/top/muhammad-fiaz/linkstack?style=for-the-badge" alt="Top Language"/>
-  <img src="https://img.shields.io/github/last-commit/muhammad-fiaz/linkstack?style=for-the-badge" alt="Last Commit"/>
-  <img src="https://img.shields.io/github/contributors/muhammad-fiaz/linkstack?style=for-the-badge" alt="Contributors"/>
+  <img src="https://img.shields.io/github/repo-size/eh3ankazemi/linkstack?style=for-the-badge" alt="Repo Size"/>
+  <img src="https://img.shields.io/github/languages/top/eh3ankazemi/linkstack?style=for-the-badge" alt="Top Language"/>
+  <img src="https://img.shields.io/github/last-commit/eh3ankazemi/linkstack?style=for-the-badge" alt="Last Commit"/>
+  <img src="https://img.shields.io/github/contributors/eh3ankazemi/linkstack?style=for-the-badge" alt="Contributors"/>
   <img src="https://img.shields.io/badge/Open%20Source-❤-red?style=for-the-badge" alt="Open Source"/>
   <img src="https://img.shields.io/badge/Platform-GitHub-black?style=for-the-badge&logo=github" alt="Platform"/>
 </p>
@@ -50,7 +50,7 @@ This project is built with **vanilla TypeScript** and **TailwindCSS** for maximu
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/muhammad-fiaz/linkstack.git
+   git clone https://github.com/eh3ankazemi/linkstack.git
    cd linkstack
    ```
 
