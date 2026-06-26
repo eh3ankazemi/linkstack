@@ -94,4 +94,4 @@ Unlike commercial link-in-bio services, Linkstack gives you:
 This project is licensed under the MIT License.
 For more details, see the [LICENSE](LICENSE) file.
 
-<sup>I faked form [**muhammad-fiazo**.github.io](https://muhammad-fiaz.github.io/), thanks bro❤</sup>
+>I faked form [**muhammad-fiazo**.github.io](https://muhammad-fiaz.github.io/), thanks bro❤
