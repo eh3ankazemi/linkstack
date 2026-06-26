@@ -32,10 +32,20 @@ export const links: LinkItem[] = [
   {
     href: "https://ehsan-kazemi.ir",
     icon: "🌐",
-    name: "Portfolio",
+    name: "Personal Site",
     description: "Visit my main website",
     colorClass: "bg-white border-gray-100 text-blue-500",
     hoverClass: "hover:border-blue-500 group-hover:text-blue-700",
+    delay: `${(time += 0.15)}s`,
+  },
+  {
+    href: "https://portfolio.ehsan-kazemi.ir/",
+    icon: "🚀",
+    name: "Portfolio",
+    description:
+      "Explore what I did, and what I knew about, and more.",
+    colorClass: "bg-white border-gray-100 text-yellow-500",
+    hoverClass: "hover:border-yellow-500 group-hover:text-amber-800",
     delay: `${(time += 0.15)}s`,
   },
   {
@@ -135,16 +145,6 @@ export const links: LinkItem[] = [
     description: "Subscribe for videos and updates, it's not active yet",
     colorClass: "bg-white border-gray-100 text-red-500",
     hoverClass: "hover:border-red-500 group-hover:text-red-600",
-    delay: `${(time += 0.15)}s`,
-  },
-  {
-    href: "https://portfolio.ehsan-kazemi.ir/",
-    icon: "🚀",
-    name: "Ehsan Technologies",
-    description:
-      "Explore developer-first and user-centric technologies, next-generation solutions, and more.",
-    colorClass: "bg-white border-gray-100 text-purple-600",
-    hoverClass: "hover:border-purple-600 group-hover:text-purple-800",
     delay: `${(time += 0.15)}s`,
   },
 ];
