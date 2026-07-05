@@ -43,7 +43,7 @@ export const links: LinkItem[] = [
     icon: "🚀",
     name: "Portfolio",
     description:
-      "Explore what I did, and what I knew about, and more.",
+      "Explore what I did, and what I knew about, and more",
     colorClass: "bg-white border-gray-100 text-yellow-500",
     hoverClass: "hover:border-yellow-500 group-hover:text-amber-800",
     delay: `${(time += 0.15)}s`,
