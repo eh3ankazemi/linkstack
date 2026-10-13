@@ -11,15 +11,15 @@ export interface LinkItem {
 let time = 0.1;
 
 export const links: LinkItem[] = [
-  {
-    href: "https://daramet.com/eh3ankazemi",
-    icon: "💸",
-    name: "Donate",
-    description: "Support my work via daramet.com/eh3ankazemi",
-    colorClass: "bg-green-50 border-green-200 text-green-500",
-    hoverClass: "hover:border-green-500 group-hover:text-green-700",
-    delay: `${time}s`,
-  },
+  // {
+  //   href: "https://daramet.com/eh3ankazemi",
+  //   icon: "💸",
+  //   name: "Donate",
+  //   description: "Support my work via daramet.com/eh3ankazemi",
+  //   colorClass: "bg-green-50 border-green-200 text-green-500",
+  //   hoverClass: "hover:border-green-500 group-hover:text-green-700",
+  //   delay: `${time}s`,
+  // },
   // {
   //   href: "https://github.com/sponsors/",
   //   icon: "❤️",
