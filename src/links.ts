@@ -38,16 +38,16 @@ export const links: LinkItem[] = [
     hoverClass: "hover:border-blue-500 group-hover:text-blue-700",
     delay: `${(time += 0.15)}s`,
   },
-  {
-    href: "https://portfolio.ehsan-kazemi.ir/",
-    icon: "🚀",
-    name: "Portfolio",
-    description:
-      "Explore what I did, and what I knew about, and more",
-    colorClass: "bg-white border-gray-100 text-yellow-500",
-    hoverClass: "hover:border-yellow-500 group-hover:text-amber-800",
-    delay: `${(time += 0.15)}s`,
-  },
+  // {
+  //   href: "https://portfolio.ehsan-kazemi.ir/",
+  //   icon: "🚀",
+  //   name: "Portfolio",
+  //   description:
+  //     "Explore what I did, and what I knew about, and more",
+  //   colorClass: "bg-white border-gray-100 text-yellow-500",
+  //   hoverClass: "hover:border-yellow-500 group-hover:text-amber-800",
+  //   delay: `${(time += 0.15)}s`,
+  // },
   {
     href: "https://github.com/eh3ankazemi/",
     icon: "🐙",
